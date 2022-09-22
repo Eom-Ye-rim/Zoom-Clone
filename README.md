@@ -1,2 +1,2 @@
 # Zoom Clone
-Zoom Clone using NodeJs,WebRTC and Websockets
+노마드코더 줌 클론 코딩 따라해보기
